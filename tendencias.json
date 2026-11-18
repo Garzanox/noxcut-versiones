@@ -1,0 +1,16 @@
+{
+ "fecha": "2026-11-18",
+ "nota": "Hashtags que se llevan, por tipo de momento. Lo mantiene el equipo de NoxCut; NoxCut descarga la última versión (Garzanox/noxcut-versiones/tendencias.json) y, sin Internet, usa esta. Sin nombres de juegos.",
+ "general": {"es": ["#gaming", "#streamer", "#clips", "#gamer", "#directo"],
+             "en": ["#gaming", "#streamer", "#clips", "#gamer", "#twitchclips"]},
+ "momentos": {
+  "jugada": {"es": ["#clutch", "#highlights", "#fps", "#jugadon"], "en": ["#clutch", "#highlights", "#fps", "#insane"]},
+  "risa": {"es": ["#humor", "#momentosgraciosos", "#risas", "#xd"], "en": ["#funny", "#funnymoments", "#lol", "#comedy"]},
+  "rabia": {"es": ["#rage", "#fail", "#nopuedeser", "#gamerrage"], "en": ["#rage", "#fail", "#gamerrage", "#unlucky"]},
+  "victoria": {"es": ["#gg", "#victoria", "#win", "#clutch"], "en": ["#gg", "#win", "#victory", "#clutch"]},
+  "derrota": {"es": ["#fail", "#gg", "#derrota", "#unlucky"], "en": ["#fail", "#gg", "#unlucky", "#throw"]},
+  "sorpresa": {"es": ["#wtf", "#increible", "#noesposible", "#locura"], "en": ["#wtf", "#unbelievable", "#crazy", "#omg"]},
+  "charla": {"es": ["#streamer", "#directo", "#twitch", "#charla"], "en": ["#streamer", "#justchatting", "#twitch", "#stream"]}
+ },
+ "plataforma": {"tiktok": "#fyp", "instagram": "#reels", "shorts": "#shorts", "youtube": "#gaming"}
+}
